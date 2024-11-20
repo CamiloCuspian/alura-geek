@@ -1,0 +1,46 @@
+{
+    "productos": [
+      {
+        "name": "Nintendo Switch",
+        "price": "280.00",
+        "imagen": "https://i.ibb.co/hdzwQjv/2.jpg",
+        "id": 2
+      },
+      {
+        "name": "Joystick, Mando Bluetooth",
+        "price": "69.00",
+        "imagen": "https://i.ibb.co/hdzwQjv/2.jpg",
+        "id": 3
+      },
+      {
+        "name": "Nintendo Switch Oled",
+        "price": "980.00",
+        "imagen": "https://i.ibb.co/hdzwQjv/2.jpg",
+        "id": 4
+      },
+      {
+        "name": "Nintendo Sup",
+        "price": "74",
+        "imagen": "https://gadgetsandfunmx.com/api/fileApi/images/123/3/consolaroja.jpg",
+        "id": 5
+      },
+      {
+        "name": "Consola G5 mini retro",
+        "price": "128",
+        "imagen": "https://i.ibb.co/hdzwQjv/2.jpg",
+        "id": 6
+      },
+      {
+        "name": "Mini consola 8 Bits",
+        "price": "78",
+        "imagen": "https://i.ibb.co/Yb6m7X0/3.jpg",
+        "id": 7
+      },
+      {
+        "name": "Auto",
+        "price": "649.00",
+        "imagen": "https://i.ibb.co/hg74y5D/Dise-o-sin-t-tulo.jpg",
+        "id": 8
+      }
+    ]
+  }
